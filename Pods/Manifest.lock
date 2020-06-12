@@ -1,0 +1,16 @@
+PODS:
+  - UXCam (3.2.3)
+
+DEPENDENCIES:
+  - UXCam
+
+SPEC REPOS:
+  trunk:
+    - UXCam
+
+SPEC CHECKSUMS:
+  UXCam: 78318bcb0e1c4a13c283d9bfc92698f4144e960f
+
+PODFILE CHECKSUM: ddcfda11cc8f41dd3f16a71b4f75a93ae53a6ea2
+
+COCOAPODS: 1.9.1
